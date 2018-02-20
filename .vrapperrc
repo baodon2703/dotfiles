@@ -1,0 +1,12 @@
+set smartindent
+set ignorecase
+set smartcase
+set hlsearch
+set incsearch
+set list
+set number
+set cursorline
+set path=src/**
+set gvimpath=/Applications/MacVim.app/Contents/bin/mvim
+set contentassistmode
+set startnormalmode
