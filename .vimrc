@@ -1,5 +1,6 @@
 set ignorecase
 set number
+set relativenumber
 
 set expandtab
 set autoindent
