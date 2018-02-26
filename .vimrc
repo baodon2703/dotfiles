@@ -50,6 +50,12 @@ let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
 " - <CR>/v/t to open in an h-split/v-split/tab
 " - check |netrw-browse-maps| for more mappings
 
+" MACVIM:
+set guifont=Monaco:h15
+
+
+
+
 " VIM PLUG:
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
