@@ -1,6 +1,7 @@
 set ignorecase
 set number
 set relativenumber
+set clipboard=unnamed
 
 set expandtab
 set autoindent

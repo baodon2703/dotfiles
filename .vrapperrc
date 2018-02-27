@@ -10,3 +10,4 @@ set path=src/**
 set gvimpath=/Applications/MacVim.app/Contents/bin/mvim
 set contentassistmode
 set startnormalmode
+set clipboard=unnamed
