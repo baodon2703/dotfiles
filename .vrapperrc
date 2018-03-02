@@ -1,6 +1,5 @@
 set smartindent
-set ignorecase
-set smartcase
+set ignorecase smartcase
 set hlsearch
 set incsearch
 set list

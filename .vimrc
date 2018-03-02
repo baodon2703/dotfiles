@@ -1,4 +1,4 @@
-set ignorecase
+set ignorecase smartcase
 set number
 set relativenumber
 set clipboard=unnamed
@@ -11,6 +11,8 @@ set tabstop=4
 
 set history=1000
 syntax enable
+
+nnoremap <Leader>p "_diwP
 
 " FINDING FILES:
 " Search down into subfolders
